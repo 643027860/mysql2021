@@ -1,0 +1,1097 @@
+[
+  {
+    "name": "课程首页",
+    "link": "home",
+    "children": []
+  },
+  {
+    "name": "课程学习",
+    "link": "study",
+    "children": [
+      {
+        "id": "1",
+        "name": "分享课件（第五版）",
+        "link": "study-content",
+        "children": []
+      },
+      {
+        "id": "2",
+        "name": "分享课件（第四版）",
+        "link": "study-content",
+        "children": []
+      },
+      {
+        "id": "3",
+        "name": "课件压缩包",
+        "link": "study-content",
+        "children": []
+      },
+      {
+        "id": "4",
+        "name": "主要教材",
+        "link": "study-content",
+        "children": []
+      },
+      {
+        "id": "5",
+        "name": "参考书目",
+        "link": "study-content",
+        "children": []
+      },
+      {
+        "id": "6",
+        "name": "推荐网站",
+        "link": "study-content",
+        "children": []
+      }
+    ]
+  },
+  {
+    "name": "教学大纲",
+    "link": "outline",
+    "children": [
+      {
+        "id": "0",
+        "name": "概述",
+        "link": "outline-content",
+        "children": []
+      },
+      {
+        "id": "1",
+        "name": "第一章",
+        "link": "outline-content",
+        "children": []
+      },
+      {
+        "id": "2",
+        "name": "第二章",
+        "link": "outline-content",
+        "children": []
+      },
+      {
+        "id": "3",
+        "name": "第三章",
+        "link": "outline-content",
+        "children": []
+      },
+      {
+        "id": "4",
+        "name": "第四章",
+        "link": "outline-content",
+        "children": []
+      },
+      {
+        "id": "5",
+        "name": "第五章",
+        "link": "outline-content",
+        "children": []
+      },
+      {
+        "id": "6",
+        "name": "第六章",
+        "link": "outline-content",
+        "children": []
+      },
+      {
+        "id": "7",
+        "name": "第七章",
+        "link": "outline-content",
+        "children": []
+      },
+      {
+        "id": "8",
+        "name": "第八章",
+        "link": "outline-content",
+        "children": []
+      },
+      {
+        "id": "9",
+        "name": "第九章",
+        "link": "outline-content",
+        "children": []
+      },
+      {
+        "id": "10",
+        "name": "第十章",
+        "link": "outline-content",
+        "children": []
+      },
+      {
+        "id": "11",
+        "name": "第十一章",
+        "link": "outline-content",
+        "children": []
+      }
+    ]
+  },
+  {
+    "name": "视频教学",
+    "link": "video",
+    "children": [
+      {
+        "id": "1",
+        "name": "第一章",
+        "link": "video-content",
+        "children": [
+          {
+            "id": "1.1",
+            "name": "1.1 数据库系统概述（1）",
+            "link": "video-content"
+          },
+          {
+            "id": "1.2",
+            "name": "1.1 数据库系统概述（2）",
+            "link": "video-content"
+          },
+          {
+            "id": "1.3",
+            "name": "1.2 数据模型",
+            "link": "video-content"
+          },
+          {
+            "id": "1.4",
+            "name": "1.3 数据库系统结构",
+            "link": "video-content"
+          },
+          {
+            "id": "1.5",
+            "name": "1.4 数据库系统的组成",
+            "link": "video-content"
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "name": "第二章",
+        "link": "video-content",
+        "children": [
+          {
+            "id": "2.1",
+            "name": "2.1 关系数据结构及形式化定义",
+            "link": "video-content"
+          },
+          {
+            "id": "2.2",
+            "name": "2.2 关系操作",
+            "link": "video-content"
+          },
+          {
+            "id": "2.3",
+            "name": "2.3 关系的完整性",
+            "link": "video-content"
+          },
+          {
+            "id": "2.4",
+            "name": "2.4 关系代数",
+            "link": "video-content"
+          },
+          {
+            "id": "2.5",
+            "name": "2.5 关系演算",
+            "link": "video-content"
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "name": "第三章",
+        "link": "video-content",
+        "children": [
+          {
+            "id": "3.1",
+            "name": "3.1 SQL概述",
+            "link": "video-content"
+          },
+          {
+            "id": "3.2",
+            "name": "3.2 数据定义",
+            "link": "video-content"
+          },
+          {
+            "id": "3.3",
+            "name": "3.3 数据查询（1）",
+            "link": "video-content"
+          },
+          {
+            "id": "3.4",
+            "name": "3.3 数据查询（2）",
+            "link": "video-content"
+          },
+          {
+            "id": "3.5",
+            "name": "3.4 数据更新",
+            "link": "video-content"
+          },
+          {
+            "id": "3.6",
+            "name": "3.5 视图",
+            "link": "video-content"
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "name": "第四章",
+        "link": "video-content",
+        "children": [
+          {
+            "id": "4.1",
+            "name": "4.1 计算机安全性概述",
+            "link": "video-content"
+          },
+          {
+            "id": "4.2",
+            "name": "4.2 数据库安全性控制",
+            "link": "video-content"
+          },
+          {
+            "id": "4.3",
+            "name": "4.3 视图机制",
+            "link": "video-content"
+          },
+          {
+            "id": "4.4",
+            "name": "4.4 审计、数据加密以及统计数据安全性",
+            "link": "video-content"
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "name": "第五章",
+        "link": "video-content",
+        "children": [
+          {
+            "id": "5.1",
+            "name": "5.1 实体完整性",
+            "link": "video-content"
+          },
+          {
+            "id": "5.2",
+            "name": "5.2 参照完整性",
+            "link": "video-content"
+          },
+          {
+            "id": "5.3",
+            "name": "5.3 用户定义的完整性",
+            "link": "video-content"
+          },
+          {
+            "id": "5.4",
+            "name": "5.4 完整性约束命名子句",
+            "link": "video-content"
+          },
+          {
+            "id": "5.5",
+            "name": "5.5 域中的完整性限制",
+            "link": "video-content"
+          },
+          {
+            "id": "5.6",
+            "name": "5.6 触发器",
+            "link": "video-content"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "第六章",
+        "link": "video-content",
+        "children": [
+          {
+            "id": "6.1",
+            "name": "6.1 问题的提出",
+            "link": "video-content"
+          },
+          {
+            "id": "6.2",
+            "name": "6.2 规范化",
+            "link": "video-content"
+          },
+          {
+            "id": "6.3",
+            "name": "6.3 数据依赖的公理系统",
+            "link": "video-content"
+          },
+          {
+            "id": "6.4",
+            "name": "6.4 模式的分解",
+            "link": "video-content"
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "name": "第七章",
+        "link": "video-content",
+        "children": [
+          {
+            "id": "7.1",
+            "name": "7.1 数据库设计概述",
+            "link": "video-content"
+          },
+          {
+            "id": "7.2",
+            "name": "7.2 需求分析",
+            "link": "video-content"
+          },
+          {
+            "id": "7.3",
+            "name": "7.3 概念结构设计",
+            "link": "video-content"
+          },
+          {
+            "id": "7.4",
+            "name": "7.4 逻辑结构设计",
+            "link": "video-content"
+          },
+          {
+            "id": "7.5",
+            "name": "7.5 数据库的物理设计",
+            "link": "video-content"
+          }
+        ]
+      },
+      {
+        "id": "8",
+        "name": "第八章",
+        "link": "video-content",
+        "children": [
+          {
+            "id": "8.1",
+            "name": "8.1 嵌入式SQL",
+            "link": "video-content"
+          },
+          {
+            "id": "8.2",
+            "name": "8.2 存储过程",
+            "link": "video-content"
+          },
+          {
+            "id": "8.3",
+            "name": "8.3 ODBC编程",
+            "link": "video-content"
+          }
+        ]
+      },
+      {
+        "id": "9",
+        "name": "第九章",
+        "link": "video-content",
+        "children": [
+          {
+            "id": "9.1",
+            "name": "9.1 关系数据库系统的查询处理",
+            "link": "video-content"
+          },
+          {
+            "id": "9.2",
+            "name": "9.2 关系数据库系统的查询优化",
+            "link": "video-content"
+          },
+          {
+            "id": "9.3",
+            "name": "9.3 代数优化",
+            "link": "video-content"
+          },
+          {
+            "id": "9.4",
+            "name": "9.4 物理优化",
+            "link": "video-content"
+          },
+          {
+            "id": "9.5",
+            "name": "1.4 数据库系统的组成",
+            "link": "video-content"
+          }
+        ]
+      },
+      {
+        "id": "10",
+        "name": "第十章",
+        "link": "video-content",
+        "children": [
+          {
+            "id": "10.1",
+            "name": "10.1 事务和数据库恢复概述",
+            "link": "video-content"
+          },
+          {
+            "id": "10.2",
+            "name": "10.2 故障种类和恢复实现技术",
+            "link": "video-content"
+          },
+          {
+            "id": "10.3",
+            "name": "10.3 恢复策略",
+            "link": "video-content"
+          },
+          {
+            "id": "10.4",
+            "name": "10.4 具有检查点的恢复技术和数据库镜像",
+            "link": "video-content"
+          }
+        ]
+      },
+      {
+        "id": "11",
+        "name": "第十一章",
+        "link": "video-content",
+        "children": [
+          {
+            "id": "11.1",
+            "name": "11.1 并发控制概述",
+            "link": "video-content"
+          },
+          {
+            "id": "11.2",
+            "name": "11.2 封锁",
+            "link": "video-content"
+          },
+          {
+            "id": "11.3",
+            "name": "11.3 活锁和死锁",
+            "link": "video-content"
+          },
+          {
+            "id": "11.4",
+            "name": "11.4 并发调度的可串行性",
+            "link": "video-content"
+          },
+          {
+            "id": "11.5",
+            "name": "11.5 两段锁协议和封锁的粒度",
+            "link": "video-content"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "演示动画",
+    "link": "animation",
+    "children": [
+      {
+        "id": "2",
+        "name": "第二章",
+        "link": "animation-content",
+        "children": [
+          {
+            "id": "2.1",
+            "name": "ALPHA",
+            "link": "animation-content"
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "name": "第三章",
+        "link": "animation-content",
+        "children": [
+          {
+            "id": "3.1",
+            "name": "EXISTS子查询",
+            "link": "animation-content"
+          },
+          {
+            "id": "3.2",
+            "name": "GROUP BY子句",
+            "link": "animation-content"
+          },
+          {
+            "id": "3.3",
+            "name": "B+树的增删改",
+            "link": "animation-content"
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "name": "第五章",
+        "link": "animation-content",
+        "children": [
+          {
+            "id": "5.1",
+            "name": "参照完整性",
+            "link": "animation-content"
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "name": "第六章",
+        "link": "animation-content",
+        "children": [
+          {
+            "id": "6.1",
+            "name": "求闭包",
+            "link": "animation-content"
+          },
+          {
+            "id": "6.2",
+            "name": "无损连接性",
+            "link": "animation-content"
+          },
+          {
+            "id": "6.3",
+            "name": "最小覆盖",
+            "link": "animation-content"
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "name": "第七章",
+        "link": "animation-content",
+        "children": [
+          {
+            "id": "7.1",
+            "name": "E-R图（1）",
+            "link": "animation-content"
+          },
+          {
+            "id": "7.2",
+            "name": "E-R图（2）",
+            "link": "animation-content"
+          },
+          {
+            "id": "7.3",
+            "name": "E-R图（3）",
+            "link": "animation-content"
+          },
+          {
+            "id": "7.4",
+            "name": "E-R图转关系",
+            "link": "animation-content"
+          }
+        ]
+      },
+      {
+        "id": "9",
+        "name": "第九章",
+        "link": "animation-content",
+        "children": [
+          {
+            "id": "9.1",
+            "name": "查询树的启发式优化",
+            "link": "animation-content"
+          },
+          {
+            "id": "9.2",
+            "name": "连接操作的实现(1)——嵌套循环",
+            "link": "animation-content"
+          },
+          {
+            "id": "9.3",
+            "name": "连接操作的实现(2)——排序合并",
+            "link": "animation-content"
+          },
+          {
+            "id": "9.4",
+            "name": "连接操作的实现(3)——散列连接",
+            "link": "animation-content"
+          },
+          {
+            "id": "9.5",
+            "name": "连接操作的实现(4)——索引连接",
+            "link": "animation-content"
+          }
+        ]
+      },
+      {
+        "id": "10",
+        "name": "第十章",
+        "link": "animation-content",
+        "children": [
+          {
+            "id": "10.1",
+            "name": "介质故障及其恢复",
+            "link": "animation-content"
+          },
+          {
+            "id": "10.2",
+            "name": "具有检查点的恢复技术",
+            "link": "animation-content"
+          },
+          {
+            "id": "10.3",
+            "name": "事务故障及其恢复",
+            "link": "animation-content"
+          },
+          {
+            "id": "10.4",
+            "name": "系统故障及其恢复",
+            "link": "animation-content"
+          }
+        ]
+      },
+      {
+        "id": "11",
+        "name": "第十一章",
+        "link": "animation-content",
+        "children": [
+          {
+            "id": "11.1",
+            "name": "并发操作带来的数据不一致性",
+            "link": "animation-content"
+          },
+          {
+            "id": "11.2",
+            "name": "冲突可串行化",
+            "link": "animation-content"
+          },
+          {
+            "id": "11.3",
+            "name": "两段锁协议",
+            "link": "animation-content"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "考试平台",
+    "link": "exam",
+    "children": [
+      {
+        "id": "1",
+        "name": "客观题",
+        "link": "exam-content",
+        "children": [
+          {
+            "id": "1.1",
+            "name": "第一章",
+            "link": "exam-content"
+          },
+          {
+            "id": "1.2",
+            "name": "第二章",
+            "link": "exam-content"
+          },
+          {
+            "id": "1.3",
+            "name": "第三章",
+            "link": "exam-content"
+          },
+          {
+            "id": "1.5",
+            "name": "第五章",
+            "link": "exam-content"
+          },
+          {
+            "id": "1.6",
+            "name": "第六章",
+            "link": "exam-content"
+          },
+          {
+            "id": "1.7",
+            "name": "第七章",
+            "link": "exam-content"
+          },
+          {
+            "id": "1.8",
+            "name": "第八章",
+            "link": "exam-content"
+          },
+          {
+            "id": "1.9",
+            "name": "第九章",
+            "link": "exam-content"
+          },
+          {
+            "id": "1.10",
+            "name": "第十章",
+            "link": "exam-content"
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "name": "主观题",
+        "link": "exam-content",
+        "children": [
+          {
+            "id": "2.1",
+            "name": "第一章",
+            "link": "exam-content"
+          },
+          {
+            "id": "2.2",
+            "name": "第二章",
+            "link": "exam-content"
+          },
+          {
+            "id": "2.3",
+            "name": "第三章",
+            "link": "exam-content"
+          },
+          {
+            "id": "2.4",
+            "name": "第四章",
+            "link": "exam-content"
+          },
+          {
+            "id": "2.5",
+            "name": "第五章",
+            "link": "exam-content"
+          },
+          {
+            "id": "2.6",
+            "name": "第六章",
+            "link": "exam-content"
+          },
+          {
+            "id": "2.7",
+            "name": "第七章",
+            "link": "exam-content"
+          },
+          {
+            "id": "2.8",
+            "name": "第八章",
+            "link": "exam-content"
+          },
+          {
+            "id": "2.9",
+            "name": "第九章",
+            "link": "exam-content"
+          },
+          {
+            "id": "2.10",
+            "name": "第十章",
+            "link": "exam-content"
+          },
+          {
+            "id": "2.11",
+            "name": "第十一章",
+            "link": "exam-content"
+          },
+          {
+            "id": "2.12",
+            "name": "第十二章",
+            "link": "exam-content"
+          },
+          {
+            "id": "2.13",
+            "name": "第十三章",
+            "link": "exam-content"
+          },
+          {
+            "id": "2.14",
+            "name": "第十四章",
+            "link": "exam-content"
+          },
+          {
+            "id": "2.15",
+            "name": "第十五章",
+            "link": "exam-content"
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "name": "模拟考试",
+        "link": "exam-content",
+        "children": [
+          {
+            "id": "3.1",
+            "name": "第一套",
+            "link": "exam-content"
+          },
+          {
+            "id": "3.2",
+            "name": "第二套",
+            "link": "exam-content"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "课程实验",
+    "link": "experiment",
+    "children": [
+      {
+        "id": "1",
+        "name": "第五版课程实验",
+        "link": "experiment-content",
+        "children": [
+          {
+            "id": "1.0",
+            "name": "实验简介",
+            "link": "experiment-content"
+          },
+          {
+            "id": "1.1",
+            "name": "实验1",
+            "link": "experiment-content"
+          },
+          {
+            "id": "1.2",
+            "name": "实验2",
+            "link": "experiment-content"
+          },
+          {
+            "id": "1.3",
+            "name": "实验3",
+            "link": "experiment-content"
+          },
+          {
+            "id": "1.4",
+            "name": "实验4",
+            "link": "experiment-content"
+          },
+          {
+            "id": "1.5",
+            "name": "实验5",
+            "link": "experiment-content"
+          },
+          {
+            "id": "1.6",
+            "name": "实验6",
+            "link": "experiment-content"
+          },
+          {
+            "id": "1.7",
+            "name": "实验7",
+            "link": "experiment-content"
+          },
+          {
+            "id": "1.8",
+            "name": "实验8",
+            "link": "experiment-content"
+          },
+          {
+            "id": "1.9",
+            "name": "实验9",
+            "link": "experiment-content"
+          },
+          {
+            "id": "1.10",
+            "name": "实验10",
+            "link": "experiment-content"
+          },
+          {
+            "id": "1.11",
+            "name": "实验11",
+            "link": "experiment-content"
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "name": "软件安装",
+        "link": "experiment-video",
+        "children": [
+          {
+            "id": "2.1",
+            "name": "Kingbase安装-Win 64",
+            "link": "experiment-video"
+          },
+          {
+            "id": "2.2",
+            "name": "Kingbase安装-Win 32",
+            "link": "experiment-video"
+          },
+          {
+            "id": "2.3",
+            "name": "Kingbase安装-Linux 64",
+            "link": "experiment-video"
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "name": "实验数据",
+        "link": "experiment-content",
+        "children": []
+      }
+    ]
+  },
+  {
+    "name": "案例展示",
+    "link": "case",
+    "children": [
+      {
+        "id": "1",
+        "name": "高校活动管理",
+        "link": "case-content",
+        "children": []
+      },
+      {
+        "id": "2",
+        "name": "演出管理系统",
+        "link": "case-content",
+        "children": []
+      },
+      {
+        "id": "3",
+        "name": "兼职助手",
+        "link": "case-content",
+        "children": []
+      },
+      {
+        "id": "4",
+        "name": "周末活动管理",
+        "link": "case-content",
+        "children": []
+      },
+      {
+        "id": "5",
+        "name": "教室管理系统",
+        "link": "case-content",
+        "children": []
+      },
+      {
+        "id": "6",
+        "name": "宿舍管理系统",
+        "link": "case-content",
+        "children": []
+      },
+      {
+        "id": "7",
+        "name": "点菜管理系统",
+        "link": "case-content",
+        "children": []
+      }
+    ]
+  },
+  {
+    "name": "技术前沿",
+    "link": "technical",
+    "children": [
+      {
+        "id": "1",
+        "name": "前沿技术综述",
+        "link": "technical-content",
+        "children": [
+          {
+            "id": "1.1",
+            "name": "教材新技术",
+            "link": "technical-content"
+          },
+          {
+            "id": "1.2",
+            "name": "学报综述",
+            "link": "technical-content"
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "name": "前沿技术讲座",
+        "link": "technical-content",
+        "children": [
+          {
+            "id": "2.1",
+            "name": "在线课程",
+            "link": "technical-content"
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "name": "前沿技术文献",
+        "link": "technical-content",
+        "children": [
+          {
+            "id": "3.1",
+            "name": "存储管理",
+            "link": "technical-content"
+          },
+          {
+            "id": "3.2",
+            "name": "查询处理",
+            "link": "technical-content"
+          },
+          {
+            "id": "3.3",
+            "name": "数据库恢复",
+            "link": "technical-content"
+          },
+          {
+            "id": "3.4",
+            "name": "并发控制",
+            "link": "technical-content"
+          },
+          {
+            "id": "3.5",
+            "name": "数据思维",
+            "link": "technical-content"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "课程评价",
+    "link": "evaluate",
+    "children": [
+      {
+        "id": "1",
+        "name": "第五版出版",
+        "link": "evaluate-content",
+        "children": []
+      },
+      {
+        "id": "2",
+        "name": "出版社证明与推荐",
+        "link": "evaluate-content",
+        "children": []
+      },
+      {
+        "id": "3",
+        "name": "校外专家评价",
+        "link": "evaluate-content",
+        "children": []
+      },
+      {
+        "id": "4",
+        "name": "校内专家评价",
+        "link": "evaluate-content",
+        "children": []
+      },
+      {
+        "id": "5",
+        "name": "教师评价",
+        "link": "evaluate-content",
+        "children": []
+      },
+      {
+        "id": "6",
+        "name": "学生评价",
+        "link": "evaluate-content",
+        "children": []
+      },
+      {
+        "id": "7",
+        "name": "获奖证书",
+        "link": "evaluate-content",
+        "children": []
+      }
+    ]
+  },
+  {
+    "name": "关于我们",
+    "link": "about",
+    "children": [
+      {
+        "id": "1",
+        "name": "作者简介",
+        "link": "about-content",
+        "children": []
+      },
+      {
+        "id": "2",
+        "name": "课程简介",
+        "link": "about-content",
+        "children": []
+      },
+      {
+        "id": "3",
+        "name": "设计团队",
+        "link": "about-content",
+        "children": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,38 @@
+@import "./mutations";
+/* 用户保存各个相同结构网页的基本样式 */
+.my-item{
+  padding: 1rem 0;
+  // 左边导航栏样式
+  .left-menu{
+    width: 22%;
+  }
+  // 右边内容区样式
+  .right-content{
+    padding: 1rem;
+    width: 75%;
+    background-color: @bgColor;
+
+    /* 内容小标题 */
+    .content-title{
+      margin: 0 0 0.5rem;
+      font-size: 1rem;
+      color: #333;
+      font-weight: 600;
+      font-family: "SimHei",'ArialMT', 'Arial';
+      text-align: center;
+      letter-spacing: 0.1rem;
+    }
+
+    /* 主体内容 */
+    .content-main{
+      margin: 1rem 0;
+      min-height: 10rem;
+
+      /* 空数据 */
+      .content-empty{
+        font-size: 0.8rem;
+        text-indent: 1.6rem;
+      }
+    }
+  }
+}
